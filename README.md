@@ -1,4 +1,4 @@
 webperf
 =======
 
-Simple Web Perf Examples and Tests. Very Early
+Simple WebGL Web Site Perf Examples and Tests. Very Early
